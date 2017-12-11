@@ -12,7 +12,6 @@ Cara Install Via Android :
 - pip2 install thrift==0.9.3<br>
 - pkg install git<br>
 - pkg install nano<br>
-- git clone https://github.com/andyihsan/LIN3-TCR<br>
 - Selesai
 
 Cara Membuka/Mengedit File :
